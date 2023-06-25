@@ -1,0 +1,33 @@
+body {
+    font-family: "Open Sans", sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: "Gill Sans", sans-serif;
+}
+
+h2 {
+    color: black;
+}
+
+header h2 {
+    color: black; font-size: small;
+}
+
+footer {
+    background-image: linear-gradient(#a9a9a9, #d3d3d3, #f4f0ec);
+    padding: 20px 0;
+}
+
+.jumbotron {
+    padding: 30px;
+    background-image: linear-gradient(to right, #a9a9a9, #d3d3d3, #f4f0ec);
+    color: black;
+}
+
+.row-content {
+    padding: 50px 0;
+    border-bottom: 1px ridge;
+    min-height: 200px;
+}
+    
