@@ -23,6 +23,7 @@ footer {
     padding: 30px;
     background-image: linear-gradient(to right, #a9a9a9, #d3d3d3, #f4f0ec);
     color: black;
+    margin: 0;
 }
 
 .row-content {
@@ -31,3 +32,8 @@ footer {
     min-height: 200px;
 }
     
+.navbar {
+    background-color: #373537;
+    
+}
+
